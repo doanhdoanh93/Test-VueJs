@@ -10,7 +10,7 @@
       />
       <v-toolbar-title>
         <span style="font-size: 21px; font-weight: 600; color: #04a6e1">
-          Lotus Academy aaaa hihi
+          Lotus Academy aaaa hihada
         </span>
       </v-toolbar-title>
     </v-app-bar>
